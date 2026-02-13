@@ -1,6 +1,6 @@
 ---
 title: "Reproducible CXL Emulation"
-authors: ["Mujahid Al Rafi", "Luanzheng Guo"]
+authors: ["Mujahid Al Rafi",kakulo]
 author_notes: ["Graduate Student Researcher, UC Merced", "Computer Scientist, Pacific Northwest National Laboratory"]
 tags: ["reproducibility", "osre26", "CXL emulation", "memory systems", "uc", "PNNL", "multi-host systems"]
 date: 2026-01-30
