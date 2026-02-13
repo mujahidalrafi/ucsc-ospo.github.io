@@ -18,7 +18,7 @@ Streamline multi-host CXL emulation without specialized hardware.
 - **Skills:** C/C++, Virtualization (QEMU), Scripting, Performance Modeling
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), [Luanzheng "Lenny" Guo](mailto:lenny.guo@pnnl.gov)
+- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), {{% mention kakulo %}}.
   
 Tasks:
 - Create automated deployment scripts and configuration templates for OCEAN-based CXL emulation topologies (single-host and multi-host).
@@ -37,7 +37,7 @@ Investigate security and isolation properties of CXL-based memory systems using 
 - **Skills:** C/C++, Virtualization (QEMU), Scripting, Computer Architecture, Security
 - **Difficulty:** Medium
 - **Size:** Large (350 hours)
-- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), [Luanzheng "Lenny" Guo](mailto:lenny.guo@pnnl.gov)
+- **Mentors:** [Mujahid Al Rafi](mailto:mrafi@ucmerced.edu), {{% mention kakulo %}}.
 
 Tasks:
 - Study the CXL memory model and fabric architecture to identify potential security and isolation risks in multi-host shared memory environments (e.g., contention, timing variation, and resource interference).
